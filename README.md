@@ -5,3 +5,4 @@ Instructions:
 4. Download the data from your email.
 5. Extract the zip file and find the "followers_and_following" folder.
 6. Copy both "followers.json" and "following.json" to the folder.
+7. Run main.py.
